@@ -1,0 +1,33 @@
+---
+title: "R4DS Notes"
+format: html
+editor: visual
+---
+
+# Background
+
+This notebook was created for students to work through the [R for Data Science book](https://r4ds.had.co.nz/). A minimal suggested structure is outlined below, but can be deleted and restructured. This first code-chunk below loads the `tidyverse` R Package, which is used through out the book. Additionally required packages can be added here.
+
+```{r}
+library(tidyverse)
+```
+
+# Explore
+
+## Introduction
+
+```{r}
+
+```
+
+## Data visualisation
+
+```{r}
+
+```
+
+## Workflow: basics
+
+```{r}
+
+```
